@@ -1,4 +1,4 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Parua,Parua,"1.3393113,35.3523467",,West Pokot,Exact,Google
-Nyarkulian,Nyarkulian,"1.3230055,35.4171592",,West Pokot,Exact,Google
-Meshau,Meshau,"1.266385,35.2928988",,West Pokot,Exact,Google
+Parua,Parua,1.3393113,35.3523467,West Pokot,Exact,Google
+Nyarkulian,Nyarkulian,1.3230055,35.4171592,West Pokot,Exact,Google
+Meshau,Meshau,1.266385,35.2928988,West Pokot,Exact,Google
