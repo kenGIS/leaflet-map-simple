@@ -1,12 +1,7 @@
-# leaflet-map-simple
-A simple Leaflet map template for new users to copy, modify, and experiment
+Landslide hit areas in West Pokot
 
-## Link to my live map (replace with link to your site)
+Locations mapped from news reports. Click link below for full map:
 
 https://kengis.github.io/leaflet-map-simple/
 
-## Create your own version
-- See video with step-by-step tutorial at https://datavizforall.org
 
-## Learn more
-- Jack Dougherty and contributors, *Data Visualization For All*, a free textbook and online course, Trinity College, Hartford CT, http://DataVizForAll.org
